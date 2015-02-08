@@ -1,11 +1,11 @@
 # Keys Reference
 
-⌘ = Command
-⇧ = Shift
-⌥ = Option/Alt
-⌃ = Control
-⇠⇢ = Left/Right Arrow Keys
-⇡⇣ = Up/Down Arrow Keys
+* ⌘ = Command
+* ⇧ = Shift
+* ⌥ = Option/Alt
+* ⌃ = Control
+* ⇠⇢ = Left/Right Arrow Keys
+* ⇡⇣ = Up/Down Arrow Keys
 
 
 Xcode-cheat-sheet
@@ -13,8 +13,8 @@ Xcode-cheat-sheet
 
 Xcode cheat sheet
 
-* `⌘ +⌥+  j `- filter navigator
-* `⌘ +⌥+  jl` 0
+* `⌘ +⌥+  j ` - filter navigator
+* `⌘ +⌥+  l ` - 0
 
 
 
